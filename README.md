@@ -12,3 +12,5 @@ Introducing the cutting-edge Medical Robot, a revolutionary concept born from ou
 ✅ Voice Commands: Direct the robot to a patient's room with voice commands.
 ✅ Vital Sign Monitoring: Measure heart rate and temperature with precision.
 ✅ Obstacle Avoidance: Advanced sensors prevent collisions, ensuring safe navigation.
+
+![Screenshot (598)](https://github.com/Ali-Alrefaee/Medical_Robot/assets/138380690/c1e33bfc-a97a-4226-920c-2ebb80d6fe3f)
